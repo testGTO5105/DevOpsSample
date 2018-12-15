@@ -19,6 +19,6 @@ deploy:
   api_key:
     secure: EbSqNTiMxrFdfxzl2N+7zoK99g8PSH5f++4YbHzJeMYoQzyasgoH9TpaHLoEpMhQCH7P2C6imRQeU+XJZHDoS0dTFKeplFHfvQiVZ2NaAo6k0jbFiOGZhe2IXF06BzfDEHS1o6AfIWjMVtj64HW5XN21kGZFUh/6E8RdTcoct5zLtaWBt9b5+1qsL7o4+qVkdy2HUK8E7KD+3F2gEe22Cpc+skgFaDeL5H2foDaFMMrI2gF3K/NLavnDzSSi+VhzjBEUpFAr9Ya9A+KilC1gQQ/vwsrM5pUCizNnUBh+WtyVOZI/pCjFbuwDudfTNcB7bGO83dloqsE5OnfVSg18FpF7prxXovsWYk0BGUB5AiIEvAMHYVVEBVQvhDiAlXnNg5g23/mMbG+8UrFHZ2+VrDNCi9La4dSepOiyst/YNjPWT+GSPhvjP4DJGrbmYKgdu78Q7KLhFBrNbBU0kiyWI2BH2Efvsbz/KiprJg36vMBd2J9HY+AOj+ZL31BrchjiYO3CNYx5Aovhw+B2jdlPD0duDLnpttAXptMma9uIb8n2JL/6JmwAccUtBYdzZwLDsawzibPCZadYC/187PSjaenAKdHGU5mXYEK68UVmuSyNUDObhSTOIujSl1gd05cmesmi/wl9j9yzKRScnAzCySDVKBenpQBEsLJ8skOWWZo=
   file_glob: true
-  file: "release.zip"
+  file: release.zip
   on:
     repo: testGTO5105/DevOpsSample
